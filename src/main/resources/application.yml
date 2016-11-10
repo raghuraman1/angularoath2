@@ -8,8 +8,8 @@ security:
 
 google:
   client:
-    clientId:   hidden.apps.googleusercontent.com
-    clientSecret:   hidden 
+    #clientId:   hidden.apps.googleusercontent.com
+    #clientSecret:   hidden 
     accessTokenUri: https://www.googleapis.com/oauth2/v4/token
     userAuthorizationUri: https://accounts.google.com/o/oauth2/v2/auth
     clientAuthenticationScheme: form
