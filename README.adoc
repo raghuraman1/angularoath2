@@ -1,5 +1,5 @@
 For google create crdentials using webapp
-and select redirect url of http://localhost:8080/login/google
+and select redirect url of http://localhost:8080/login/google 
 
 :star: {asterisk}
 :all: {asterisk}{asterisk}
