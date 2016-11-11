@@ -7,6 +7,8 @@ Also read this. https://spring.io/guides/tutorials/spring-security-and-angular-j
 For google create crdentials using webapp
 and select redirect url of http://localhost:8080/login/google
 
+https://console.developers.google.com/projectselector/apis/credentials
+
 there is a ClientApplication to demonstrate how to use servers that use our authorization server for login.
 
 If using a mobile app can do this.
