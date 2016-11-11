@@ -8,6 +8,9 @@ For google create crdentials using webapp
 and select redirect url of http://localhost:8080/login/google
 
 https://console.developers.google.com/projectselector/apis/credentials
+for github
+https://developer.github.com/guides/basics-of-authentication/#registering-your-app
+select redirect url of http://localhost:8080/login/github
 
 there is a ClientApplication to demonstrate how to use servers that use our authorization server for login.
 
